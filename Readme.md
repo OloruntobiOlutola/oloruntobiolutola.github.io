@@ -8,10 +8,12 @@ Live site: https://oloruntobiolutola.github.io/
 
 ## Sections
 
-- **Hero & highlights:** role, internship availability, key results (M1 15.84/20, First-Class B.Eng, CORIA-TALN 2026 paper, 3+ years engineering)
+- **Hero & highlights:** role, internship availability, key results (M1 15.84/20, First-Class B.Eng, 2 peer-reviewed papers, 3+ years engineering)
 - **Internship:** dates, duration, programme and target areas
 - **Focus areas:** AI agents, AI engineering, IR & embeddings, LLMs & RAG, scientific document understanding, trustworthy AI
-- **Research:** *Beyond Abstracts: Learning Scientific Paper Embeddings from Full-Text Windows* (CORIA-TALN 2026)
+- **Research:** *Beyond Abstracts: Learning Scientific Paper Embeddings from Full-Text Windows* (ARTS @ CORIA-TALN 2026) and *Estimating Varietal Proportions in Wheat Grain Mixtures with Fine-Tuned Deep Vision Models* (accepted, CAp 2026), plus a Google Scholar link
+- **Main project:** industrial research at Qatent AI Lab (Questel group): citation graph (528M records, 3.08B citation edges), citation-trained embeddings, citation and contribution statement extraction
+- **Projects:** AI Career Operating System (AI agents), hybrid citation recommendation, LLM political-bias study, MemN2N re-implementation, MediaSum summarisation
 - **Experience:** Questel, LISN, Seamfix, Seamfix NextGen Academy
 - **Education, Skills, Contact**, plus a downloadable CV
 
